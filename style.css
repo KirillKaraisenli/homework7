@@ -1,5 +1,2 @@
 ul.list li a[href^="https"] {  color: red;}
-input[type=] + p {
-    font-size: 24px;
-}
-ul.list + p {font-size:  24px;}
+ul + p {font-size:  24px;}
